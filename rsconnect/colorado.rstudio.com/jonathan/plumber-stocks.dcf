@@ -1,0 +1,10 @@
+name: plumber-stocks
+title:
+username: jonathan
+account: jonathan
+server: colorado.rstudio.com
+hostUrl: http://colorado.rstudio.com:3939/__api__
+appId: 878
+bundleId: 1920
+url: http://colorado.rstudio.com:3939/content/878/
+when: 1517972659.34823
